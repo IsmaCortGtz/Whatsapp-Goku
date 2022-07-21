@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-goku-bot",
+  "version": "1.0.0",
+  "description": "Whatsapp bot that send images of goku ssj 1 to 20 with 'bring me to life'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "IsmaCortGtz",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "0.12.0",
+    "whatsapp-web.js": "1.17.1"
+  }
+}
