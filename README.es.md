@@ -1,6 +1,6 @@
 # Whatsapp-Goku
 
-***Language***
+***Idioma***
 - 🇲🇽 Español
 - [🇺🇸 English](./README.md)
 
