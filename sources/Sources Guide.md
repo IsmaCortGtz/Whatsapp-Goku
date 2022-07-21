@@ -1,7 +1,7 @@
 
 # Add your sources
 
-You should put here your sources, add the song in a "sound.mp3" file, and your images in a folder named "images" with this format "ssj1.jpg", "ssj2.jpg", ect...
+You need to put here your sources, add the song in a `sound.mp3` file, and your images in a folder named "images" with this format `ssj1.jpg`, `ssj2.jpg`, ect.
 
 ## Example tree
 
@@ -13,6 +13,7 @@ You should put here your sources, add the song in a "sound.mp3" file, and your i
 │       ├── ssj1.jpg
 │       ├── ssj2.jpg
 │       ├── ssj3.jpg
-│       └── ...
+│       ├── ...
+│       └── ssj20.jpg
 └── ...
 ```
