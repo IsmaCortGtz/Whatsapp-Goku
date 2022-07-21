@@ -2,14 +2,15 @@ const { Client, MessageMedia } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const client = new Client();
 
+const phoneNumbers = [
+  "521XXXXXXXXXX@c.us", // Internacional format
+  "521XXXXXXXXXX@c.us",
+]
+
 // Get numbers
 async function sendPeople(){
-  let chats = [
-    "521XXXXXXXXXX@c.us", // Internacional format
-    "521XXXXXXXXXX@c.us",
-  ]
-  for (var x = 0; x < chats.length; x++){
-    await sendToChat(chats[x]);
+  for (var x = 0; x < phoneNumbers.length; x++){
+    await sendToChat(phoneNumbers[x]);
   }
 }
 
