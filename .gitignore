@@ -1,10 +1,7 @@
 # Ignore node modules
 node_modules
 
-# Ignore sources to avoid problems
-sources/*
-
-# Sure to avoid sources
+# Sure to avoid sources to evit problems
 *.png
 *.jpg
 *.mp3
