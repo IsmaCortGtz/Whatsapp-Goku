@@ -3,8 +3,8 @@ const qrcode = require('qrcode-terminal');
 const client = new Client();
 
 const phoneNumbers = [
-  "521XXXXXXXXXX@c.us", // Internacional format
-  "521XXXXXXXXXX@c.us",
+  "XXXXXXXXXXXX@c.us", // Internacional format, and add "@c.us" after the number
+  "XXXXXXXXXXXX@c.us",
 ]
 
 // Get numbers
