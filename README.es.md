@@ -4,7 +4,7 @@
 - 🇲🇽 Español
 - [🇺🇸 English](./README.md)
 
-Un bot de Whatsapp que envia imagenes de las transformaciones SSJ1 a SSJ20 de Goku con un audia y u titulo.
+Un bot de Whatsapp que envia imagenes de las transformaciones SSJ1 a SSJ20 de Goku con un audio y un titulo.
 
 
 ## Instalación
